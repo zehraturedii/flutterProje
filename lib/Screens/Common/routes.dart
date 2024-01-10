@@ -18,6 +18,6 @@ final Map<String, Widget Function(BuildContext)> namedRoutes = {
   '/setting': (context) => const NewSettingsPage(),
   '/playlists': (context) => PlaylistScreen(),
   '/nowplaying': (context) => NowPlaying(),
-  '/recent': (co ntext) => RecentlyPlayed(),
+  '/recent': (context) => RecentlyPlayed(),
   '/downloads': (context) => const Downloads(),
 };
