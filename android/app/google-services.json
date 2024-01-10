@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "148662393964",
+    "project_id": "flutterfiest",
+    "storage_bucket": "flutterfiest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148662393964:android:da56be6949b96301a8cc49",
+        "android_client_info": {
+          "package_name": "com.shadow.blackhole"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYzZ76Y2CtJ_G4D-07EABzJxyQZ-uVqfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
